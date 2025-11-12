@@ -41,6 +41,6 @@ Once you open the Wireshark file, keep clicking Yes and Next until you see NpCap
 <img width="1659" height="566" alt="Screenshot 2025-11-11 185506" src="https://github.com/user-attachments/assets/0f165214-5a09-4897-aaf7-25a6d6bed2e3" />
 <img width="1666" height="1008" alt="Screenshot 2025-11-11 181020" src="https://github.com/user-attachments/assets/3842f83c-e6f2-4c57-affe-d43168a50a30" />
 
-In Wireshark if you click on ethernet then the blue fin in the top letf corner you will be able to see all the traffic within your computer.
+In Wireshark if you click on ethernet then the blue fin in the top left corner you will be able to see all the traffic within your computer.
 </p>
 <br />
